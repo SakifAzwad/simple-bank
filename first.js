@@ -3,7 +3,7 @@ document.getElementById('btn1').addEventListener('click',function()
     var xx=document.getElementById('inp1').value;
     var yy=document.getElementById('inp2').value;
 
-    if(xx =="sakifazwad18@gmail.com" && yy=="123456")
+    if(xx =="simplebank@gmail.com" && yy=="123456")
     {
         window.location.href='second.html';
     }
